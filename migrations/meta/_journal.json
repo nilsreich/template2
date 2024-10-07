@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1728163277095,
+      "tag": "0000_curved_kylun",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1728163566893,
+      "tag": "0001_easy_toro",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1728163945666,
+      "tag": "0002_exotic_korg",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1728289214747,
+      "tag": "0003_foamy_wallop",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `userProgress_id_unique` ON `userProgress` (`id`);
